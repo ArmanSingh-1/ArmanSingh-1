@@ -4,11 +4,18 @@
 - Strong Interest in **DSA** and **Problem Solving**  
 - Participant at **AI/ML Hackathon 2.0** at Parul University — Built a *Customer Behaviour Dashboard Web App* using Flask (Team Code Vanguard)  
 
+# 💫 About Me:
+- Aspiring Data Scientist / Python Developer  
+- Enthusiastic about building **ML Models** & exploring **ML Concepts and ETL Pipelines** - Strong Interest in **DSA** and **Problem Solving** - Participant at **AI/ML Hackathon 2.0** at Parul University — Built a *Customer Behaviour Dashboard Web App* using Flask (Team Code Vanguard)  
+
 ## 🏅 Competitive Programming Ratings:
+- **LeetCode**: 1951 (Knight) — [View Profile](https://leetcode.com/u/Arman_Singh_74/)  
 - **CodeChef**: 1649 — [View Profile](https://www.codechef.com/users/arman_singh_47)  
-- **LeetCode**: 1790 — [View Profile](https://leetcode.com/u/Arman_Singh_74)  
 - **CodeForces**: 1137 — [View Profile](https://codeforces.com/profile/Arman_singh_)
 
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/Arman_Singh_74?theme=dark&font=Nunito&ext=heatmap" alt="Arman's LeetCode Stats" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bhadoriya-Arman-singh)  
@@ -27,6 +34,3 @@
 
 ---
 💡 *"Data is the new oil, but it’s worthless if unrefined — I love refining it."*  
-
----
-[![](https://visitcount.itsvg.in/api?id=ArmanSingh-1&icon=0&color=0)](https://visitcount.itsvg.in)
