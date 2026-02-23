@@ -4,10 +4,6 @@
 - Strong Interest in **DSA** and **Problem Solving**  
 - Participant at **AI/ML Hackathon 2.0** at Parul University — Built a *Customer Behaviour Dashboard Web App* using Flask (Team Code Vanguard)  
 
-# 💫 About Me:
-- Aspiring Data Scientist / Python Developer  
-- Enthusiastic about building **ML Models** & exploring **ML Concepts and ETL Pipelines** - Strong Interest in **DSA** and **Problem Solving** - Participant at **AI/ML Hackathon 2.0** at Parul University — Built a *Customer Behaviour Dashboard Web App* using Flask (Team Code Vanguard)  
-
 ## 🏅 Competitive Programming Ratings:
 - **LeetCode**: 2000 (Knight) — [View Profile](https://leetcode.com/u/Arman_Singh_74/)  
 - **CodeChef**: 1717 — [View Profile](https://www.codechef.com/users/arman_singh_47)  
