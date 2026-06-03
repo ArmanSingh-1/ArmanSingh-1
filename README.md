@@ -5,9 +5,9 @@
 - Participant at **AI/ML Hackathon 2.0** at Parul University — Built a *Customer Behaviour Dashboard Web App* using Flask (Team Code Vanguard)  
 
 ## 🏅 Competitive Programming Ratings:
-- **LeetCode**: 2000 (Knight) — [View Profile](https://leetcode.com/u/Arman_Singh_74/)  
-- **CodeChef**: 1717 — [View Profile](https://www.codechef.com/users/arman_singh_47)  
-- **CodeForces**: 1475 — [View Profile](https://codeforces.com/profile/Arman_singh_)
+- **LeetCode**: 2125 (Gaurdian) — [View Profile](https://leetcode.com/u/Arman_Singh_74/)  
+- **CodeChef**: 1733 (3-Star) — [View Profile](https://www.codechef.com/users/arman_singh_47)  
+- **CodeForces**: 1548 (Specialist) — [View Profile](https://codeforces.com/profile/Arman_singh_)
 
 <p align="left">
   <img src="https://leetcard.jacoblin.cool/Arman_Singh_74?theme=dark&font=Nunito&ext=heatmap" alt="Arman's LeetCode Stats" />
